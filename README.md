@@ -22,5 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-"# Restaurant_W" 
-"# restaurant_windows" 
